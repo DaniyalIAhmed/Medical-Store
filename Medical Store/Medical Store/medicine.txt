@@ -1,0 +1,9 @@
+Panadol
+150
+2
+Gen
+200
+150
+Dexitol
+200
+3

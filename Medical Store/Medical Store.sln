@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Medical Store", "Medical Store\Medical Store.vcxproj", "{856627F4-F5BD-4E08-A0B3-53C2F069B95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Debug|x64.ActiveCfg = Debug|x64
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Debug|x64.Build.0 = Debug|x64
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Debug|x86.ActiveCfg = Debug|Win32
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Debug|x86.Build.0 = Debug|Win32
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Release|x64.ActiveCfg = Release|x64
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Release|x64.Build.0 = Release|x64
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Release|x86.ActiveCfg = Release|Win32
+		{856627F4-F5BD-4E08-A0B3-53C2F069B95F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C19F7E2-18B7-40CC-9C98-5F13DFE3ABA2}
+	EndGlobalSection
+EndGlobal
